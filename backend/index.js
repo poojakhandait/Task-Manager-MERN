@@ -1,0 +1,12 @@
+let express=require("express")
+let mongoose=require("mongoose")
+let cors=require("cors")
+const route=require("./routes/route")
+let app=express()
+app.use(cors())
+app.use(express.json())
+mongoose.connect("mongodb://127.0.0.1:27017/companyDB").then(()=>{
+    console.log("DataBase Conected")
+})
+app.use("/",route)
+app.listen(5000)
