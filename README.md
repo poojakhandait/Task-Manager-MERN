@@ -20,4 +20,66 @@
   <li>Password Management: Reset password functionality.</li>
   <li>Logout: Secure logout functionality.</li>
 </ul>
+<h1>Technologies Used</h1>
+<h3>#Frontend:</h3>
+<ul>
+  <li>React</li>
+  <li>HTML/CSS</li>
+</ul>
+
+<h3>#Backend:</h3>
+<ul>
+  <li>Express</li>
+  <li>Node</li>
+</ul>
+
+<h3>#Database:</h3>
+<ul>
+  <li>MongoDB</li>
+</ul>
+
+<h3>#Security:</h3>
+<ul>
+  <li>bcrypt for password hashing</li>
+  <li>JSON Web Tokens (JWT) for authentication and authorization</li>
+</ul>
+
+<h1>Installation</h1>
+
+<h3>#Install backend dependencies</h3>
+<ul>
+  <li>cd backend</li>
+  <li>npm install</li>
+</ul>
+
+<h3>#Install backend dependencies</h3>
+<ul>
+  <li>cd ../frontend</li>
+  <li>npm install</li>
+</ul>
+
+<h3>#Start the backend server:</h3>
+<ul>
+  <li>cd backend</li>
+  <li>npm start</li>
+</ul>
+
+<h3>#Start the frontend server:</h3>
+<ul>
+  <li>cd ../frontend</li>
+  <li>npm start</li>
+</ul>
+
+<h1Usage></h1>
+<h3>#Manager Login:</h3>
+<ul>
+  <li>Navigate to the login page and log in with manager credentials.
+Access the manager dashboard to manage tasks and employees.</li>
+</ul>
+
+<h3>#Employee Login:</h3>
+<ul>
+  <li>Navigate to the login page and log in with employee credentials.
+Access the employee dashboard to manage assigned tasks.</li>
+</ul>
 
