@@ -70,7 +70,7 @@
   <li>npm start</li>
 </ul>
 
-<h1Usage></h1>
+<h1>Usage></h1>
 <h3>#Manager Login:</h3>
 <ul>
   <li>Navigate to the login page and log in with manager credentials.
