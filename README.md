@@ -7,5 +7,5 @@
 
 <h3>Manager Features</h3>
 <ul>
-  <li><span style="color":"blue">Dashboard</span>: View all tasks and employee details.</li>
+  <li><span style="color:blue;">Dashboard</span>: View all tasks and employee details.</li>
 </ul>
